@@ -5,11 +5,12 @@ use node 20.10.0
 
 ```
 npm install
-
-run server using
-
-``
-npm run server
-
 ```
-wow
+
+Run server using:
+
+```bash
+npm run server
+```
+
+Wow!
